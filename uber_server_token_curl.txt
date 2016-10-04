@@ -1,0 +1,2 @@
+curl -H 'Authorization: Token Nv9o4t8mrO5AqwSJVCaQgfZ_7jKpOPGdraIO3ix6' \
+'https://api.uber.com/v1/products?latitude=37.7759792&longitude=-122.41823'
